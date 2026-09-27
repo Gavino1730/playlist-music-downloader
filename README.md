@@ -1,4 +1,4 @@
-# Playlist Transfer Studio
+# Playlist Music Downloader
 
 A desktop utility for building a local music library from playlist CSV files. It searches for tracks, downloads audio through `yt-dlp`, writes metadata and cover art, and organizes the results for offline listening.
 
